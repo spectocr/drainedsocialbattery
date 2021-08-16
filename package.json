@@ -1,0 +1,27 @@
+{
+  "name": "drained",
+  "version": "1.0.0",
+  "description": "API for my social network that uses a NoSQL database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spectocr/drainedsocialbattery.git"
+  },
+  "author": "cris spector",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/spectocr/drainedsocialbattery/issues"
+  },
+  "homepage": "https://github.com/spectocr/drainedsocialbattery#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12"
+  }
+}
