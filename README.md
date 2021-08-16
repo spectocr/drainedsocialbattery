@@ -18,7 +18,7 @@
     * Use this program by: use how you wish
     * Watch video demo here: https://youtu.be/TFRlLhQbgI4
   
-  ![alt text](assets/images/ss.png)
+  ![alt text](./ss.png)
   
   
   ## Credits
